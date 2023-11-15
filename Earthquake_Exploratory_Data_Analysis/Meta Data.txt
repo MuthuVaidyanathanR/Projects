@@ -1,0 +1,9 @@
+Meta Data
+Data: Jan 1997 to Dec 2022 (25 Years)
+Total records: 26,675
+Data format: CSV
+Description of Data Fields: Origin_time, Latitude, Longitude, Depth, Magnitude, Location.
+Geographical Coverage: Indian Sub-continent
+Data Source: National Center for Seismology, Ministry of Earth Sciences, Government of India.
+Website: https://riseq.seismo.gov.in/riseq/earthquake/archive
+Category: Earthquake Catalogue 
